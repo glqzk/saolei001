@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">扫雷</string>
+    <string name="reset_button">Reset</string>
+    <string name="mines_count">Mines: %d</string>
+    <string name="game_over">Game Over! You hit a mine!</string>
+    <string name="you_won">Congratulations! You won!</string>
+</resources>
